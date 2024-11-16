@@ -1,1 +1,1 @@
-# Minera-o-de-Textos-NLTK
+# Mineracao de Textos-NLTK
